@@ -44,6 +44,12 @@
     font-style: fantasy;
     padding: 10px 500px;
   }
+  .title {
+    color: #009113; /* Цвет заголовка */
+    font-size: 18px;
+    font-style: fantasy;
+    padding: 10px 450px;
+  }
   .screen1 {
     display: inline;
     padding: 0px 0px;
