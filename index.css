@@ -1,9 +1,9 @@
-body {
-    font-family: Arial, Verdana,  sans-serif; /* Семейство шрифтов */
-    font-size: 11pt; /* Размер основного шрифта в пунктах  */
-    background-color: #ffda61; /* Цвет фона веб-страницы */
-    color: rgb(238, 238, 238); /* Цвет основного текста */ 
-  }
+/*body {
+    /*font-family: Arial, Verdana,  sans-serif; /* Семейство шрифтов */
+    /*font-size: 11pt; /* Размер основного шрифта в пунктах  */
+    /*background-color: #ffda61; /* Цвет фона веб-страницы */
+   /* color: rgb(238, 238, 238);  Цвет основного текста */ 
+  /*}*/
   header {
     color: #ffd900; /* Цвет заголовка */
     font-size: 18px;
@@ -18,7 +18,17 @@ body {
     font-size: 18px;
     font-weight: bold;
   }
-  p {
+  /* p {
+    color: #ffd900; /* Цвет заголовка */
+    /* font-size: 18px;
+    font-style: oblique;
+  } */
+   .last {
+    color: #ffd900; /* Цвет заголовка */
+    font-size: 18px;
+    font-style: oblique;
+  }
+  .poem {
     color: #ffd900; /* Цвет заголовка */
     font-size: 18px;
     font-style: oblique;
@@ -33,10 +43,6 @@ body {
     font-size: 18px;
     font-style: fantasy;
     padding: 10px 500px;
-  }
-  Screen_list {
-      background: #ffda61;
-
   }
   .screen1 {
     display: inline;
